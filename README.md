@@ -1,6 +1,6 @@
 # Samsung Health Security Props
 
-You may wish to try this method instead https://github.com/BlackMesa123/KnoxPatch, as its miantained, whereas this module, is not
+You may wish to try this method instead https://github.com/BlackMesa123/KnoxPatch, as its maintained, whereas this module, is not
 
 
 Removes "**sakv2**" from **ro.security.keystore.keytype** to help make Samsung Health run on rooted Samsung devices. This doesnt mean its a universal "fix" and works on every device every time, so ymmv....
