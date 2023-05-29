@@ -1,5 +1,8 @@
 # Samsung Health Security Props
 
+You may wish to try this method instead https://github.com/BlackMesa123/KnoxPatch, as its miantained, whereas this module, is not
+
+
 Removes "**sakv2**" from **ro.security.keystore.keytype** to help make Samsung Health run on rooted Samsung devices. This doesnt mean its a universal "fix" and works on every device every time, so ymmv....
 
 Notice: I am switching back to Pixel after becoming way too frustrated at the bullshit Samsung makes you go through to use the devices you pay them a tonne of money in the way you chose to do. Hours and hours of my life have been wasted because of Samsung. The owner should be able to use any device they have bought any way they like in my opinion. Almost every update Samsung tries to stop root users using simple things like health apps (why?) or to connect their watch on a rooted device, and i got tired of this bastardry.  There was a time early on in Android where Samsung had tolerance for developers, but now they just want to control peoples devices like fucking Apple, the lowest of the low of companies, and ive had enough of the race to the bottom. No more money will be going from me to Samsung, they can get fucked. As such i will not actively be maintaining this module or testing ways to beat whatever bullshit Samsung tries to block you from using your own devices....i will only respond to issues with the current module
