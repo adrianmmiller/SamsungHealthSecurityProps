@@ -1,9 +1,0 @@
-id=SamsungHealthSecurityProps
-name=Samsung Health Security Props
-version=v1.2
-versionCode=1
-author=adrian.m.miller
-description=Removes "sakv2" from ro.security.keystore.keytype to help make Samsung Health run on rooted devices
-support=https://github.com/adrianmmiller/SamsungHealthSecurityProps
-updateJson=https://raw.githubusercontent.com/adrianmmiller/SamsungHealthSecurityProps/main/update.json
-           
